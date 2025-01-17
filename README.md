@@ -40,6 +40,6 @@ This project is for educational purposes and is not affiliated with Amazon. Feel
 ## **Author**
 
 Created with ❤️ by **Shubhankar Sarkar**.  
-[GitHub Profile](https://github.com/shubhankar05sarkar))
+[GitHub Profile](https://github.com/shubhankar05sarkar)
 
 ---
