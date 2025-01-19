@@ -7,7 +7,7 @@ Welcome to my **Amazon Clone**! This is a front-end project that mimics the layo
 ## **Features**
 
 - **Laptop-Optimized Design**: The layout is tailored to provide the best experience on laptop screens.
-- **Interactive Navbar**: Includes a logo, search bar, location indicator, and user account options.
+- **Navbar**: Includes a logo, search bar, location indicator, and user account options.
 - **Hero Section**: A promotional banner with a message and a link to the official Amazon India website.
 - **Shopping Categories**: Display of various categories like Clothing, Electronics, Health & Personal Care, etc.
 - **Footer Section**: Contains links for customer service, careers, payment options, and more.
