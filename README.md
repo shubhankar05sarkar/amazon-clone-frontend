@@ -1,4 +1,4 @@
-# **Amazon Clone**
+## Amazon Clone
 
 Welcome to my **Amazon Clone**! This is a front-end project that mimics the layout and functionality of the Amazon website. It serves as a demonstration of HTML, CSS, and responsive design principles.
 
