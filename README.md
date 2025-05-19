@@ -2,6 +2,8 @@
 
 Welcome to my **Amazon Clone**! This is a front-end project that mimics the layout and functionality of the Amazon website. It serves as a demonstration of HTML, CSS, and responsive design principles.
 
+### Deployed at Netlify - https://wonderful-strudel-348269.netlify.app/
+
 ---
 
 ## **Features**
