@@ -20,14 +20,6 @@ Welcome to my **Amazon Clone**! This is a front-end project that mimics the layo
 
 - **HTML5**: Structure and semantics.
 - **CSS3**: Styling and layout.
-- **FontAwesome**: Icons for enhanced visual appeal.
-
----
-
-## **Prerequisites**
-To view or edit this project, you'll need:
-- A code editor like [VS Code](https://code.visualstudio.com/).
-- A modern web browser for viewing the project.
 
 ---
 
