@@ -6,7 +6,7 @@ Welcome to my **Amazon Clone**! This is a front-end project that mimics the layo
 
 ---
 
-## **Features**
+## **Features** 
 
 - **Laptop-Optimized Design**: The layout is tailored to provide the best experience on laptop screens.
 - **Navbar**: Includes a logo, search bar, location indicator, and user account options.
